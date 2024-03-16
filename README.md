@@ -81,7 +81,9 @@ GROUP BY
 ```
 
 ### Report Creation
-To view the Dashboard [Click Here](https://public.tableau.com/views/BikeStore_Executive_Dashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+Created final Dashboard by using Tableau
+![image](https://github.com/Shivam7370/BikeStore_Sales_Analysis/assets/92902294/f1f812b7-11fb-4be3-b02f-3d043861cc7d)
+
 
 ### Results/Findings
 The analysis results are summarized as follows:
