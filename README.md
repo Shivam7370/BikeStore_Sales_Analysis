@@ -89,8 +89,8 @@ Created final Dashboard by using Tableau
 ### Results
 The analysis results are summarized as follows:
 - The company has recorded the highest revenue in the year **2017**.
-- **Texas** is the highest revenue generated state.
+- **Baldwin Bikes** store has made a major contribution to it.
+- **Texas** is the highest revenue-generating state.
 - **Trek** is the overall most-selling brand.
 - **Mountain Bikes** are much sold followed by **Road Bikes** and more...
-- **Baldwin Bikes** store has made a major contribution to it.
 - **Pamelia Newman** is our overall top customer followed by **Abby Gamble** and more...
