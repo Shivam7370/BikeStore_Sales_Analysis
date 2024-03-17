@@ -45,7 +45,7 @@ I joined multiple tables like (
 ) to retrive [SalesData](https://drive.google.com/file/d/1KW8827rp_HlR_r5T5AKtAHXhJ9hAZebP/view?usp=sharing) by using inner join because I only need matching records.
 
 #### SQL Query Used to Join these tables
-```sql
+```MS SQL server
 SELECT
 	o.order_id,
 	CONCAT(c.first_name,' ',c.last_name) AS 'customer_full_name',
