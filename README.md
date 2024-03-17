@@ -7,7 +7,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Preparation](#data-preparation)
 - [Report Creation](#report-creation)
-- [Results/Finding](#results-/-findings)
+- [Results](#results)
 
 ### Project Overview
 This data analysis project aims to provide insights into the sales performance of a Bike Store company over the past years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
@@ -86,7 +86,7 @@ Created final Dashboard by using Tableau
 - to access the dashboard directly please [Click Here](https://public.tableau.com/views/BikeStore_Executive_Dashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
-### Results/Findings
+### Results
 The analysis results are summarized as follows:
 - The company has recorded the highest revenue in the year 2017.
 - Baldwin Bikes has a major contribution to it.
