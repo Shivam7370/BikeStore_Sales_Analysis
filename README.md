@@ -6,8 +6,8 @@
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Preparation](#data-preparation)
-- [Report Creation](report-creation)
-- [Results/Finding](results/findings)
+- [Report Creation](#report-creation)
+- [Results/Finding](#results-/-findings)
 
 ### Project Overview
 This data analysis project aims to provide insights into the sales performance of a Bike Store company over the past years. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
